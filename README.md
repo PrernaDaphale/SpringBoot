@@ -22,5 +22,5 @@ Set up your Spring Boot project using Spring Initializr (https://start.spring.io
 ## 6. Application.properties Layer
 - Configure the database connection in src/main/resources/application.properties.
 ## 7. Testing API
-- You can test the API using a tool like Postman or your web browser "https://localhost:8080/".
+- You can test the API using a tool like Postman or your web browser "https://localhost:8000/".
   
