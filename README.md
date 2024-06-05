@@ -24,3 +24,4 @@ Set up your Spring Boot project using Spring Initializr (https://start.spring.io
 ## 7. Testing API
 - You can test the API using a tool like Postman or your web browser "https://localhost:8000/".
   
+This setup provides a complete solution for creating an API in Spring Boot
